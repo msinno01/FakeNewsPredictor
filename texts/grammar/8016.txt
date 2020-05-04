@@ -1,0 +1,10 @@
+usage: pylanguagetool [-h] [-V] [-v] [-a API_URL] [--no-color] [-c] [-s]
+                      [-t {txt,html,md,markdown,rst,ipynb,json,xliff}] [-u]
+                      [-r] [--rule-categories] [-l LANG] [-m MOTHER_TONGUE]
+                      [-p PREFERRED_VARIANTS] [-e ENABLED_RULES]
+                      [-d DISABLED_RULES]
+                      [--enabled-categories ENABLED_CATEGORIES]
+                      [--disabled-categories DISABLED_CATEGORIES]
+                      [--enabled-only] [--pwl PWL]
+                      [input file]
+input file is required

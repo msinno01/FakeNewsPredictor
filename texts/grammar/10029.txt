@@ -1,0 +1,3 @@
+English (US) detected (99% confidence)
+
+Text checked by https://languagetool.org/api/v2/ (LanguageTool 5.0-SNAPSHOT)
